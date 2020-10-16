@@ -1,0 +1,10 @@
+{
+  "name": "aws-node-dynamic-image-resizer",
+  "version": "1.0.0",
+  "description": "Packaged externals for aws-node-dynamic-image-resizer",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "sharp": "^0.21.3"
+  }
+}
